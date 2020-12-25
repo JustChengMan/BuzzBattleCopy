@@ -1,0 +1,10 @@
+E:\College 1st yr\buzzbattle-master\WaveEditor_v1\bin\Debug\WaveEditor_v1.exe.config
+E:\College 1st yr\buzzbattle-master\WaveEditor_v1\bin\Debug\WaveEditor_v1.exe
+E:\College 1st yr\buzzbattle-master\WaveEditor_v1\bin\Debug\WaveEditor_v1.pdb
+E:\College 1st yr\buzzbattle-master\WaveEditor_v1\obj\Debug\WaveEditor_v1.csprojAssemblyReference.cache
+E:\College 1st yr\buzzbattle-master\WaveEditor_v1\obj\Debug\WaveEditor_v1.Form1.resources
+E:\College 1st yr\buzzbattle-master\WaveEditor_v1\obj\Debug\WaveEditor_v1.Properties.Resources.resources
+E:\College 1st yr\buzzbattle-master\WaveEditor_v1\obj\Debug\WaveEditor_v1.csproj.GenerateResource.cache
+E:\College 1st yr\buzzbattle-master\WaveEditor_v1\obj\Debug\WaveEditor_v1.csproj.CoreCompileInputs.cache
+E:\College 1st yr\buzzbattle-master\WaveEditor_v1\obj\Debug\WaveEditor_v1.exe
+E:\College 1st yr\buzzbattle-master\WaveEditor_v1\obj\Debug\WaveEditor_v1.pdb

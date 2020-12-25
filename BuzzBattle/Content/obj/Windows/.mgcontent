@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>F:/College 1st yr/buzzbattle-master/BuzzBattle/Content/actualGill24.spritefont</File>
+    <File>F:/College 1st yr/buzzbattle-master/BuzzBattle/Content/Assets/BeeA.png</File>
+    <File>F:/College 1st yr/buzzbattle-master/BuzzBattle/Content/Assets/BeeAW.png</File>
+    <File>F:/College 1st yr/buzzbattle-master/BuzzBattle/Content/Assets/BeeD.png</File>
+    <File>F:/College 1st yr/buzzbattle-master/BuzzBattle/Content/Assets/BeeDS.png</File>
+    <File>F:/College 1st yr/buzzbattle-master/BuzzBattle/Content/Assets/Beehive.png</File>
+    <File>F:/College 1st yr/buzzbattle-master/BuzzBattle/Content/Assets/BeeS.png</File>
+    <File>F:/College 1st yr/buzzbattle-master/BuzzBattle/Content/Assets/BeeSA.png</File>
+    <File>F:/College 1st yr/buzzbattle-master/BuzzBattle/Content/Assets/Beetle Down.png</File>
+    <File>F:/College 1st yr/buzzbattle-master/BuzzBattle/Content/Assets/Beetle Left.png</File>
+    <File>F:/College 1st yr/buzzbattle-master/BuzzBattle/Content/Assets/Beetle Right.png</File>
+    <File>F:/College 1st yr/buzzbattle-master/BuzzBattle/Content/Assets/Beetle Up.png</File>
+    <File>F:/College 1st yr/buzzbattle-master/BuzzBattle/Content/Assets/BeeW.png</File>
+    <File>F:/College 1st yr/buzzbattle-master/BuzzBattle/Content/Assets/BeeWD.png</File>
+    <File>F:/College 1st yr/buzzbattle-master/BuzzBattle/Content/Assets/Bullet.png</File>
+    <File>F:/College 1st yr/buzzbattle-master/BuzzBattle/Content/Assets/Buzz Battle Logo.png</File>
+    <File>F:/College 1st yr/buzzbattle-master/BuzzBattle/Content/Assets/Edited Background.png</File>
+    <File>F:/College 1st yr/buzzbattle-master/BuzzBattle/Content/Assets/hive.png</File>
+    <File>F:/College 1st yr/buzzbattle-master/BuzzBattle/Content/Assets/honeycomb.jpg</File>
+    <File>F:/College 1st yr/buzzbattle-master/BuzzBattle/Content/Assets/honeycomb.png</File>
+    <File>F:/College 1st yr/buzzbattle-master/BuzzBattle/Content/Assets/honeydrip.png</File>
+    <File>F:/College 1st yr/buzzbattle-master/BuzzBattle/Content/Assets/Instructions.png</File>
+    <File>F:/College 1st yr/buzzbattle-master/BuzzBattle/Content/betterTriangle.png</File>
+    <File>F:/College 1st yr/buzzbattle-master/BuzzBattle/Content/circle.jpg</File>
+    <File>F:/College 1st yr/buzzbattle-master/BuzzBattle/Content/circle1.png</File>
+    <File>F:/College 1st yr/buzzbattle-master/BuzzBattle/Content/File.spritefont</File>
+    <File>F:/College 1st yr/buzzbattle-master/BuzzBattle/Content/square.png</File>
+    <File>F:/College 1st yr/buzzbattle-master/BuzzBattle/Content/Text.spritefont</File>
+    <File>F:/College 1st yr/buzzbattle-master/BuzzBattle/Content/triangle.jpg</File>
+  </SourceFiles>
+</SourceFileCollection>

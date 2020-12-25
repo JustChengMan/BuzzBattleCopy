@@ -1,0 +1,53 @@
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\Content\Assets\BeeA.xnb
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\Content\Assets\BeeAW.xnb
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\Content\Assets\BeeD.xnb
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\Content\Assets\BeeDS.xnb
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\Content\Assets\Beehive.xnb
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\Content\Assets\BeeS.xnb
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\Content\Assets\BeeSA.xnb
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\Content\Assets\Beetle Down.xnb
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\Content\Assets\Beetle Left.xnb
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\Content\Assets\Beetle Right.xnb
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\Content\Assets\Beetle Up.xnb
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\Content\Assets\BeeW.xnb
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\Content\Assets\BeeWD.xnb
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\Content\Assets\Bullet.xnb
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\Content\Assets\Buzz Battle Logo.xnb
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\Content\Assets\Edited Background.xnb
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\Content\Assets\hive.xnb
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\Content\Assets\honeycomb.xnb
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\Content\Assets\honeydrip.xnb
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\Content\Assets\Instructions.xnb
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\Content\actualGill24.xnb
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\Content\betterTriangle.xnb
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\Content\circle.xnb
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\Content\circle1.xnb
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\Content\File.xnb
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\Content\square.xnb
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\Content\Text.xnb
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\Content\triangle.xnb
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\BuzzBattle.exe
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\BuzzBattle.pdb
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\SharpDX.dll
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\SharpDX.xml
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\College 1st yr\buzzbattle-master\BuzzBattle\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+F:\College 1st yr\buzzbattle-master\BuzzBattle\obj\x86\Debug\BuzzBattle.csprojAssemblyReference.cache
+F:\College 1st yr\buzzbattle-master\BuzzBattle\obj\x86\Debug\BuzzBattle.csproj.CoreCompileInputs.cache
+F:\College 1st yr\buzzbattle-master\BuzzBattle\obj\x86\Debug\BuzzBattle.csproj.CopyComplete
+F:\College 1st yr\buzzbattle-master\BuzzBattle\obj\x86\Debug\BuzzBattle.exe
+F:\College 1st yr\buzzbattle-master\BuzzBattle\obj\x86\Debug\BuzzBattle.pdb
